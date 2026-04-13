@@ -51,29 +51,28 @@ The database consists of the following tables:
 - **SQL (Structured Query Language)**
 
 ## 📁 Project Structure
-Employee-Management-System/
-│
-├── Dataset/
-│ ├── Employee.csv
-│ ├── SalaryBonus.csv
-│ ├── JobDepartment.csv
-│ ├── Qualification.csv
-│ ├── Payroll.csv
-│ ├── Leaves.csv
-│
-├── SQL/
-│ ├── database_&_table_creation.sql
-│ ├── data_loading.sql
-│ ├── data_cleaning.sql
-│ └── data_analysis.sql
-│
-├── ER Diagram/
-│ └── ER_diagram.png
-│
-├── PPT/
-│ └── Project_Presentation.pptx
-│
-└── README.md
+- Employee-Management-System
+  
+  - Dataset
+    - Employee.csv
+    - SalaryBonus.csv
+    - JobDepartment.csv
+    - Qualification.csv
+    - Payroll.csv
+    - Leaves.csv
+      
+  - SQL
+    - database_&_table_creation.sql
+    - data_loading.sql
+    - data_cleaning.sql
+    - data_analysis.sql
+  - ER Diagram
+    - ER_diagram.png
+      
+  - PPT/
+    - Project_Presentation.pptx
+      
+  - README.md
 
 ## Conclusion
 This project demonstrates the practical application of SQL in building a real-world database system.
