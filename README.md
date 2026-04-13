@@ -50,6 +50,31 @@ The database consists of the following tables:
 - **MySQL Workbench**
 - **SQL (Structured Query Language)**
 
+## 📁 Project Structure
+Employee-Management-System/
+│
+├── Dataset/
+│ ├── Employee.csv
+│ ├── SalaryBonus.csv
+│ ├── JobDepartment.csv
+│ ├── Qualification.csv
+│ ├── Payroll.csv
+│ ├── Leaves.csv
+│
+├── SQL/
+│ ├── database_&_table_creation.sql
+│ ├── data_loading.sql
+│ ├── data_cleaning.sql
+│ └── data_analysis.sql
+│
+├── ER Diagram/
+│ └── ER_diagram.png
+│
+├── PPT/
+│ └── Project_Presentation.pptx
+│
+└── README.md
+
 ## Conclusion
 This project demonstrates the practical application of SQL in building a real-world database system.
 It highlights how structured data management and advanced SQL techniques can be used to extract valuable insights and support business decision-making.
@@ -58,4 +83,3 @@ It highlights how structured data management and advanced SQL techniques can be 
 **Afroz Shams**  
 Data Analyst | SQL | Data Analytics
 
-## 📁 Project Structure
